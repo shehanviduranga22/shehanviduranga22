@@ -16,11 +16,11 @@ Building modern web applications, intelligent systems and reliable deployment wo
 
 <br/>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/shehan-viduranga-35aa62361/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="YOUR_BEHANCE_URL">
+<a href="https://www.behance.net/shehanviduranga1">
   <img src="https://img.shields.io/badge/Behance-Portfolio-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
 </a>
 &nbsp;
@@ -32,7 +32,7 @@ Building modern web applications, intelligent systems and reliable deployment wo
   <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://design-portfolio-ivory-kappa.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-Visit-00C896?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
@@ -190,11 +190,11 @@ Turning ideas into **real-world software, intelligent systems and scalable appli
 
 <p align="center">
 
-<a href="YOUR_STS_REPOSITORY_URL">
+<a href="https://github.com/shehanviduranga22/STS_Website_up.git">
   <img src="./assets/project-sts.svg" width="49%" alt="University Society Website"/>
 </a>
 
-<a href="YOUR_CIAO_REPOSITORY_URL">
+<a href="https://github.com/shehanviduranga22/Ithaly_FashionWeb.git">
   <img src="./assets/project-ciao.svg" width="49%" alt="CIAO D MILANO"/>
 </a>
 
@@ -202,7 +202,7 @@ Turning ideas into **real-world software, intelligent systems and scalable appli
 
 <p align="center">
 
-<a href="YOUR_CHATBOT_REPOSITORY_URL">
+<a href="https://github.com/shehanviduranga22/University_chatBot.git">
   <img src="./assets/project-chatbot.svg" width="49%" alt="AI University Chatbot"/>
 </a>
 
@@ -245,7 +245,7 @@ mental health status from textual statements.
 
 <br/><br/>
 
-<a href="YOUR_PUBLICATION_LINK">
+<a href="https://lnkd.in/p/gA7P8AF6">
   <img src="https://img.shields.io/badge/View_Publication-Research_Paper-6C63FF?style=for-the-badge&logo=readthedocs&logoColor=white"/>
 </a>
 
@@ -258,14 +258,7 @@ mental health status from textual statements.
 ## 📊 GitHub Statistics
 
 <!-- Replace YOUR-STATS-DOMAIN with your working GitHub Readme Stats Vercel domain -->
-
-<img height="170"
-src="https://YOUR-STATS-DOMAIN.vercel.app/api?username=shehanviduranga22&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170"
-src="https://YOUR-STATS-DOMAIN.vercel.app/api/top-langs/?username=shehanviduranga22&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/><br/>
+<br/>
 
 <img
 src="https://streak-stats.demolab.com?user=shehanviduranga22&theme=tokyonight&hide_border=true"
@@ -307,7 +300,7 @@ I'm interested in **Full-Stack Development, Machine Learning, AI and DevOps** op
 
 <br/>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/shehan-viduranga-35aa62361/">
   <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
@@ -315,7 +308,7 @@ I'm interested in **Full-Stack Development, Machine Learning, AI and DevOps** op
   <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://design-portfolio-ivory-kappa.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-Explore_My_Work-00C896?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
