@@ -41,7 +41,7 @@ Building modern web applications, intelligent systems and reliable deployment wo
 
 </div>
 
----
+--------------------------------------
 
 ## 👨‍💻 About Me
 
@@ -56,71 +56,91 @@ My main areas of interest are:
 - 🚀 Software Deployment & Automation
 - 🔬 Research & Intelligent Systems
 
----
+--------------------------------------
 
-# 🚀 What I Do
+<h2 align="center">🚀 What I Do</h2>
+
+<p align="center">
+  <i>Building software from idea → intelligence → deployment</i>
+</p>
+
+<br>
 
 <table>
 <tr>
 
 <td width="33%" align="center">
 
-### 🌐 Full-Stack Development
+<h3>🌐 Full-Stack Development</h3>
 
-Building modern and responsive web applications using frontend and backend technologies.
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
 
-**Main Technologies**
+<br><br>
 
-React.js  
-Node.js  
-Express.js  
-Flask  
-MongoDB  
-MySQL  
-REST APIs
+Building modern, responsive and scalable web applications from frontend interfaces to backend APIs.
 
-</td>
+<br><br>
 
-<td width="33%" align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=green">
 
-### 🧠 Machine Learning
+<br>
 
-Developing intelligent applications using machine learning, NLP and AI technologies.
-
-**Main Technologies**
-
-Python  
-Scikit-learn  
-TensorFlow / Keras  
-NLP  
-RAG  
-ChromaDB  
-Data Analysis
+<img src="https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=47A248">
+<img src="https://img.shields.io/badge/REST_API-20232A?style=for-the-badge">
 
 </td>
 
+
 <td width="33%" align="center">
 
-### ⚙️ DevOps & Cloud
+<h3>🧠 Machine Learning & AI</h3>
 
-Learning and implementing modern deployment, automation and cloud workflows.
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
 
-**Technologies**
+<br><br>
 
-Git  
-GitHub  
-Docker  
-Linux  
-GitHub Actions  
-CI/CD  
-Cloud Deployment
+Creating intelligent systems using machine learning, NLP, RAG and data-driven technologies.
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python">
+<img src="https://img.shields.io/badge/Scikit--Learn-20232A?style=for-the-badge&logo=scikitlearn">
+
+<br>
+
+<img src="https://img.shields.io/badge/NLP-20232A?style=for-the-badge">
+<img src="https://img.shields.io/badge/RAG-20232A?style=for-the-badge">
+
+</td>
+
+
+<td width="33%" align="center">
+
+<h3>⚙️ DevOps & Cloud</h3>
+
+<img src="https://skillicons.dev/icons?i=docker,linux,github,aws" />
+
+<br><br>
+
+Exploring automated deployment, containerization, CI/CD pipelines and cloud infrastructure.
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker">
+<img src="https://img.shields.io/badge/Linux-20232A?style=for-the-badge&logo=linux">
+
+<br>
+
+<img src="https://img.shields.io/badge/GitHub_Actions-20232A?style=for-the-badge&logo=githubactions">
+<img src="https://img.shields.io/badge/CI/CD-20232A?style=for-the-badge">
 
 </td>
 
 </tr>
 </table>
 
----
+--------------------------------------
 
 # 🛠️ Tech Stack
 
@@ -146,120 +166,80 @@ Cloud Deployment
 
 `GitHub Actions` • `CI/CD` • `Cloud Deployment`
 
----
+--------------------------------------
 
-# 💼 Featured Projects
+<h2 align="center">🚀 Featured Projects</h2>
 
-<table>
+<p align="center">
+Turning ideas into <b>real-world software, intelligent systems and scalable applications.</b>
+</p>
 
-<tr>
+<br>
 
-<td width="50%">
+<p align="center">
 
-## 🌐 University Society Website
-
-Full-stack university society platform with:
-
-- Member management
-- Event management
-- Announcements
-- REST API integration
-- Responsive interface
-
-**Tech Stack**
-
-`MERN` `MongoDB` `REST API`
-
-<a href="YOUR_REPOSITORY_URL">
-View Repository →
+<a href="YOUR_STS_REPOSITORY_URL">
+<img src="./assets/project-sts.svg" width="49%">
 </a>
 
-</td>
-
-<td width="50%">
-
-## 🛍️ CIAO D MILANO
-
-Luxury Italian fashion e-commerce platform featuring:
-
-- User authentication
-- Product management
-- Shopping cart
-- Checkout
-- Online payments
-- Admin management
-
-**Tech Stack**
-
-`React` `Node.js` `MongoDB`
-
-<a href="YOUR_REPOSITORY_URL">
-View Repository →
+<a href="YOUR_CIAO_REPOSITORY_URL">
+<img src="./assets/project-ciao.svg" width="49%">
 </a>
 
-</td>
+</p>
 
-</tr>
+<p align="center">
 
-<tr>
-
-<td width="50%">
-
-## 🤖 AI University Chatbot
-
-RAG-based intelligent university assistant supporting university-related questions.
-
-Features:
-
-- Text interaction
-- Voice interaction
-- Document retrieval
-- Vector search
-- Local LLM integration
-
-**Tech Stack**
-
-`Python` `RAG` `ChromaDB` `Flask`
-
-<a href="YOUR_REPOSITORY_URL">
-View Repository →
+<a href="YOUR_CHATBOT_REPOSITORY_URL">
+<img src="./assets/project-chatbot.svg" width="49%">
 </a>
 
-</td>
-
-<td width="50%">
-
-## 🧠 Mind Mirror
-
-Machine-learning system designed to predict mental health status from textual data.
-
-**Tech Stack**
-
-`Python` `Machine Learning` `NLP`
-
-<a href="YOUR_REPOSITORY_URL">
-View Repository →
+<a href="YOUR_MIND_MIRROR_REPOSITORY_URL">
+<img src="./assets/project-mindmirror.svg" width="49%">
 </a>
 
-</td>
+</p>
 
-</tr>
+<br>
 
-</table>
+<p align="center">
+<a href="https://github.com/shehanviduranga22?tab=repositories">
+<img src="https://img.shields.io/badge/Explore%20All%20Projects-View%20Repositories-181717?style=for-the-badge&logo=github">
+</a>
+</p>
 
----
+--------------------------------------
 
-# 🔬 Research & Publication
+<h2 align="center">🔬 Research & Publication</h2>
 
-### Mental Health Status Prediction Using Machine Learning on Textual Data
+<div align="center">
 
-**2nd International Conference on Applied Sciences (ICAPS–SUSL 2026)**  
-Sabaragamuwa University of Sri Lanka | 2026
+### 🧠 Mental Health Status Prediction Using Machine Learning on Textual Data
 
-Research focused on applying machine-learning techniques to textual data for
-mental health status prediction.
+**2nd International Conference on Applied Sciences — ICAPS-SUSL 2026**
 
----
+*Sabaragamuwa University of Sri Lanka • 2026*
+
+<br>
+
+<img src="https://img.shields.io/badge/Machine_Learning-Research-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-Text_Classification-007ACC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ICAPS--SUSL-2026-00A86B?style=for-the-badge"/>
+
+<br><br>
+
+Machine-learning-based research focused on predicting  
+mental health status from textual statements.
+
+<br><br>
+
+<a href="YOUR_PUBLICATION_LINK">
+<img src="https://img.shields.io/badge/View_Publication-Research_Paper-6C63FF?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+</a>
+
+</div>
+
+--------------------------------------
 
 # 📊 GitHub Statistics
 
@@ -282,7 +262,7 @@ src="https://streak-stats.demolab.com?user=shehanviduranga22&theme=tokyonight&hi
 
 </div>
 
----
+--------------------------------------
 
 # 📈 Contribution Activity
 
@@ -293,7 +273,7 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=shehanvidura
 
 </div>
 
----
+--------------------------------------
 
 <div align="center">
 
