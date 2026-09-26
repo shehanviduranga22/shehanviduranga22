@@ -6,7 +6,7 @@
 
 <img src="./assets/github-banner.png" width="100%" alt="Shehan Viduranga Banner"/>
 
-<br/><br/>
+<br/>
 
 # SHEHAN VIDURANGA
 
@@ -73,11 +73,11 @@ My main areas of interest are:
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
 
-<br/><br/>
+<br/>
 
 Building modern, responsive and scalable web applications from frontend interfaces to backend APIs.
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=339933"/>
@@ -95,11 +95,11 @@ Building modern, responsive and scalable web applications from frontend interfac
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow" />
 
-<br/><br/>
+<br/>
 
 Creating intelligent systems using machine learning, NLP, RAG and data-driven technologies.
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=3776AB"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-20232A?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
@@ -117,11 +117,11 @@ Creating intelligent systems using machine learning, NLP, RAG and data-driven te
 
 <img src="https://skillicons.dev/icons?i=docker,linux,github,aws" />
 
-<br/><br/>
+<br/>
 
 Exploring automated deployment, containerization, CI/CD pipelines and cloud infrastructure.
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker&logoColor=2496ED"/>
 <img src="https://img.shields.io/badge/Linux-20232A?style=for-the-badge&logo=linux&logoColor=FCC624"/>
@@ -232,8 +232,6 @@ Turning ideas into **real-world software, intelligent systems and scalable appli
 
 *Sabaragamuwa University of Sri Lanka • 2026*
 
-<br/>
-
 <img src="https://img.shields.io/badge/Machine_Learning-Research-8A2BE2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/NLP-Text_Classification-007ACC?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/ICAPS--SUSL-2026-00A86B?style=for-the-badge"/>
@@ -243,7 +241,7 @@ Turning ideas into **real-world software, intelligent systems and scalable appli
 Machine-learning-based research focused on predicting  
 mental health status from textual statements.
 
-<br/><br/>
+<br/>
 
 <a href="https://lnkd.in/p/gA7P8AF6">
   <img src="https://img.shields.io/badge/View_Publication-Research_Paper-6C63FF?style=for-the-badge&logo=readthedocs&logoColor=white"/>
@@ -274,15 +272,13 @@ alt="GitHub Streak"/>
 
 *Continuously learning, building and improving across software engineering, AI and modern deployment.*
 
-<br/>
-
 <img src="https://img.shields.io/badge/🌐_Full--Stack-Building_Modern_Applications-00BFFF?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/🧠_AI_%26_ML-Building_Intelligent_Systems-8A2BE2?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/⚙️_DevOps-Automate_%26_Deploy-FF8C00?style=for-the-badge"/>
 
-<br/><br/>
+<br/>
 
 ### Current Focus
 
