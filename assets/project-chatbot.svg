@@ -1,0 +1,48 @@
+<svg width="560" height="250" viewBox="0 0 560 250" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+<linearGradient id="bg">
+<stop stop-color="#08172b"></stop>
+<stop offset="1" stop-color="#111936"></stop>
+</linearGradient>
+</defs>
+
+<rect width="560" height="250" rx="22" fill="url(#bg)"></rect>
+<rect x="1" y="1" width="558" height="248" rx="21" fill="none" stroke="#243c69"></rect>
+
+<rect x="25" y="25" width="55" height="55" rx="15" fill="#122c55"></rect>
+
+<text x="52" y="61" text-anchor="middle" font-size="28">🤖</text>
+
+<text x="100" y="48" fill="white" font-family="Arial" font-weight="700" font-size="21">
+AI University Chatbot
+</text>
+
+<text x="100" y="72" fill="#5e9cff" font-family="Arial" font-size="13">
+RAG • AI ASSISTANT
+</text>
+
+<text x="25" y="115" fill="#bbc8dd" font-family="Arial" font-size="14">
+RAG-powered university assistant with
+</text>
+
+<text x="25" y="137" fill="#bbc8dd" font-family="Arial" font-size="14">
+document retrieval, text and voice interaction.
+</text>
+
+<rect x="25" y="170" width="75" height="28" rx="14" fill="#122d54"></rect>
+<text x="62" y="189" text-anchor="middle" fill="#73adff" font-family="Arial" font-size="11">PYTHON</text>
+
+<rect x="110" y="170" width="60" height="28" rx="14" fill="#302151"></rect>
+<text x="140" y="189" text-anchor="middle" fill="#bb86ff" font-family="Arial" font-size="11">RAG</text>
+
+<rect x="180" y="170" width="95" height="28" rx="14" fill="#41301a"></rect>
+<text x="227" y="189" text-anchor="middle" fill="#ffbb63" font-family="Arial" font-size="11">CHROMADB</text>
+
+<rect x="25" y="215" width="150" height="3" fill="#4c8dff"></rect>
+
+<text x="535" y="225" text-anchor="end" fill="#65a4ff" font-family="Arial" font-size="13">
+VIEW PROJECT ↗
+</text>
+
+</svg>

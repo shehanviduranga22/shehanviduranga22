@@ -1,0 +1,50 @@
+<svg width="560" height="250" viewBox="0 0 560 250" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+<linearGradient id="bg">
+<stop stop-color="#170d27"></stop>
+<stop offset="1" stop-color="#10182c"></stop>
+</linearGradient>
+</defs>
+
+<rect width="560" height="250" rx="22" fill="url(#bg)"></rect>
+<rect x="1" y="1" width="558" height="248" rx="21" fill="none" stroke="#432a65"></rect>
+
+<rect x="25" y="25" width="55" height="55" rx="15" fill="#32204b"></rect>
+
+<text x="52" y="61" text-anchor="middle" font-size="28">🧠</text>
+
+<text x="100" y="48" fill="white" font-family="Arial" font-weight="700" font-size="21">
+Mind Mirror
+</text>
+
+<text x="100" y="72" fill="#c078ff" font-family="Arial" font-size="13">
+MACHINE LEARNING • NLP
+</text>
+
+<text x="25" y="115" fill="#c9bfd7" font-family="Arial" font-size="14">
+Mental health status prediction system
+</text>
+
+<text x="25" y="137" fill="#c9bfd7" font-family="Arial" font-size="14">
+using machine learning on textual data.
+</text>
+
+<rect x="25" y="170" width="75" height="28" rx="14" fill="#192e55"></rect>
+<text x="62" y="189" text-anchor="middle" fill="#75adff" font-family="Arial" font-size="11">PYTHON</text>
+
+<rect x="110" y="170" width="130" height="28" rx="14" fill="#35204d"></rect>
+<text x="175" y="189" text-anchor="middle" fill="#ce8cff" font-family="Arial" font-size="11">
+MACHINE LEARNING
+</text>
+
+<rect x="250" y="170" width="55" height="28" rx="14" fill="#35204d"></rect>
+<text x="277" y="189" text-anchor="middle" fill="#ce8cff" font-family="Arial" font-size="11">NLP</text>
+
+<rect x="25" y="215" width="150" height="3" fill="#a557ff"></rect>
+
+<text x="535" y="225" text-anchor="end" fill="#bd75ff" font-family="Arial" font-size="13">
+VIEW PROJECT ↗
+</text>
+
+</svg>
